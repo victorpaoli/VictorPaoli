@@ -1,7 +1,5 @@
 # Olá, sou Victor! 👋
 
-Sou um entusiasta de tecnologia com 25 anos, iniciando minha jornada no desenvolvimento de software após 4 anos de experiência na área de redes de computadores. Estou sempre em busca de novos conhecimentos e desafios. 😎
-
 ## 📊 Minhas Estatísticas
 
 <div>
